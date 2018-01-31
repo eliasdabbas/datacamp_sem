@@ -2,6 +2,8 @@
 
 This is an example of how you can create a full AdWords account using Python. I use a real life website and produce real data that is good to use in a real account. 
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eliasdabbas/datacamp_sem/master)
+
 ### [Read the turorial](datacamp_sem_tutorial.ipynb)
 
 The final output is two csv files:
